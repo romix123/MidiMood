@@ -1,2 +1,2 @@
 # MidiMood
- Minimoog inspired MIDI Control SUrface
+ Minimoog inspired MIDI Control Surface
